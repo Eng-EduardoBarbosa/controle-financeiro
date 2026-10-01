@@ -1,0 +1,9 @@
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos compilados do Java
+*.class
+
+# Pasta de arquivos compilados
+bin/
+lixeira/
